@@ -1,0 +1,40 @@
+/*
+* Colors used in design.
+*   primary: #0078aa;
+*   dark: #363636;
+*   light: #fff;
+*/
+
+body {
+	font-family: 'Montserrat', sans-serif;
+}
+
+@media (max-width: 768px) {
+}
+
+@media (min-width: 768px) {
+}
+
+@media (min-width: 1280px) {
+	body {
+		width: 1280px;
+		margin: 0 auto;
+	}
+}
+
+.container {
+	border: 1px solid black;
+}
+
+.header-content {
+	overflow: auto;
+}
+
+.wrapper {
+	border: 1px solid black;
+	width: 1280px;
+	margin: 0 auto;
+}
+section {
+	border: 1px solid black;
+}
